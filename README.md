@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luisa Zavala
-- 👀 I’m interested in ... Neuroscience, psychopharmacology, and Real Housewives
-- 🌱 I’m currently learning ... Neuroscience at Tulane University
-- 💞️ I’m looking to collaborate on ... projects related to neuroscience
+- 👀 I’m interested in ... Neuroscience, Psychopharmacology, and Real Housewives
+- 🌱 I’m currently learning ... about the areas of a mouse brain activated by stress and the fight, flight freeze response at Tulane University
+- 💞️ I’m not really sure what projects looking to collaborate on.
 - 📫 How to reach me ... lzavalarodriguez at tulane.edu
 
 <!---
